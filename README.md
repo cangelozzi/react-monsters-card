@@ -4,6 +4,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Unidirectional Data
+
+![image](public/unidirectionaldata.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
